@@ -1,0 +1,19 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: inrice-admin-server
+
+inrice:
+  urls:
+    Code1011: http://www.baidu.com
+    Code1021: http://127.0.0.1:8082/extend/customer/fixed/page
+    Code1023: http://127.0.0.1:8082/sys/auth/login
+    Code1234: http://127.0.0.1:8082/extend/customer/page
+
+
+
+
+
+
